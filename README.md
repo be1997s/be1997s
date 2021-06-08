@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @be1997s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-be1997s/be1997s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I am editing the README file. Adding some more details about the project description.
+- 👋 Hi, I’m Bashayer
+- 👀 I’m interested in codeing
+- 🌱 I’m currently learning swift
+- 📫 How to reach me career goals
